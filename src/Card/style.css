@@ -1,0 +1,45 @@
+.about {
+    display: flex;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #F5F5F5;
+}
+
+.aboutImg {
+    margin-right: 20px;
+}
+
+.aboutMap {
+    display: flex;
+    align-items:center;
+}
+
+.aboutDesc {
+    padding-top: 10px;
+}
+
+.icon {
+    padding-bottom: 5px;
+    margin-right: 5px;
+}
+
+.aboutTitle {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.aboutDate {
+    font-weight: 700;
+}
+
+.mapText {
+    color:#918E9B;
+}
+
+.aboutCountry {
+    margin-right: 15px;
+    letter-spacing: 5px;
+}
